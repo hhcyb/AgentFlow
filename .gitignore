@@ -1,0 +1,14 @@
+/node_modules/
+/dist/
+/target/
+/src-tauri/binaries/agentflow-runner-*
+/src-tauri/binaries/agentflow-mock-cli-*
+/src-tauri/gen/
+*.tsbuildinfo
+/vite.config.js
+/vite.config.d.ts
+.DS_Store
+npm-debug.log*
+
+# 本机 Cargo 配置（如代理）
+/.cargo/
